@@ -1,0 +1,44 @@
+[
+  {
+    "model": "baseline_raw_linear",
+    "file": "checkpoints\\baseline_raw_linear.joblib",
+    "sha256": "fe9ce798ca11aa6cdbf77eda1f5b1e2820ce5783e6a03eb15261a3187ecf44e2",
+    "bytes": 26743,
+    "best_params": {
+      "clf__C": 0.1
+    },
+    "test_accuracy": 0.916791230692576
+  },
+  {
+    "model": "raw_rbf",
+    "file": "checkpoints\\raw_rbf.joblib",
+    "sha256": "a91b92b7a14a38d28e005499076688683815e64acce814c27a3f73266cc9715a",
+    "bytes": 2123914,
+    "best_params": {
+      "clf__C": 10.0,
+      "clf__gamma": "scale"
+    },
+    "test_accuracy": 0.9516691579471849
+  },
+  {
+    "model": "hog_linear",
+    "file": "checkpoints\\hog_linear.joblib",
+    "sha256": "bc89857382066353827922366f8cab2e24b9f69c3a2b093c2c0e6bb1c0bc3b6e",
+    "bytes": 25813,
+    "best_params": {
+      "C": 1.0
+    },
+    "test_accuracy": 0.9521674140508222
+  },
+  {
+    "model": "proposed_hog_rbf",
+    "file": "checkpoints\\proposed_hog_rbf.joblib",
+    "sha256": "0d9b4f1cc9f184115f348dd8c9dac10e027c258015340c2dbe6c61d2230d180e",
+    "bytes": 1756845,
+    "best_params": {
+      "C": 10.0,
+      "gamma": "scale"
+    },
+    "test_accuracy": 0.9626307922272048
+  }
+]

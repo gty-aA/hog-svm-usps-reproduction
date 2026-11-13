@@ -1,0 +1,41 @@
+{
+  "all_checks_passed": true,
+  "models": {
+    "baseline_raw_linear": {
+      "test_accuracy": 0.916791230692576,
+      "test_macro_f1": 0.9107788332457657,
+      "expected_accuracy": 0.916791230692576,
+      "expected_macro_f1": 0.9107788332457657,
+      "sha256_matches": true,
+      "metrics_match": true,
+      "pass": true
+    },
+    "raw_rbf": {
+      "test_accuracy": 0.9516691579471849,
+      "test_macro_f1": 0.9476300143478416,
+      "expected_accuracy": 0.9516691579471849,
+      "expected_macro_f1": 0.9476300143478416,
+      "sha256_matches": true,
+      "metrics_match": true,
+      "pass": true
+    },
+    "hog_linear": {
+      "test_accuracy": 0.9521674140508222,
+      "test_macro_f1": 0.9488592098844834,
+      "expected_accuracy": 0.9521674140508222,
+      "expected_macro_f1": 0.9488592098844834,
+      "sha256_matches": true,
+      "metrics_match": true,
+      "pass": true
+    },
+    "proposed_hog_rbf": {
+      "test_accuracy": 0.9626307922272048,
+      "test_macro_f1": 0.9593120885246635,
+      "expected_accuracy": 0.9626307922272048,
+      "expected_macro_f1": 0.9593120885246635,
+      "sha256_matches": true,
+      "metrics_match": true,
+      "pass": true
+    }
+  }
+}

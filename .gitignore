@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+vendor/
+data/*.bz2
+qa/
+paper/paper_render.html
+*.tmp

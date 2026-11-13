@@ -1,0 +1,81 @@
+{
+  "file": "paper\\HOG_SVM_USPS_Reproduction_Paper.docx",
+  "page_size_cm": [
+    21.0,
+    29.7
+  ],
+  "margins_cm": {
+    "top": 2.35,
+    "bottom": 2.25,
+    "left": 2.45,
+    "right": 2.45
+  },
+  "paragraphs": 225,
+  "headings": {
+    "Heading 1": 13,
+    "Heading 2": 30
+  },
+  "tables": 6,
+  "figures": 7,
+  "media_files": 7,
+  "zip_integrity": true,
+  "alt_text_complete": true,
+  "table_geometry": [
+    {
+      "table": 1,
+      "rows": 8,
+      "columns": 2,
+      "declared_width_dxa": 8958,
+      "grid_width_dxa": 8958,
+      "widths_consistent": true,
+      "all_rows_match_grid": true
+    },
+    {
+      "table": 2,
+      "rows": 5,
+      "columns": 4,
+      "declared_width_dxa": 8958,
+      "grid_width_dxa": 8958,
+      "widths_consistent": true,
+      "all_rows_match_grid": true
+    },
+    {
+      "table": 3,
+      "rows": 5,
+      "columns": 9,
+      "declared_width_dxa": 8958,
+      "grid_width_dxa": 8958,
+      "widths_consistent": true,
+      "all_rows_match_grid": true
+    },
+    {
+      "table": 4,
+      "rows": 11,
+      "columns": 7,
+      "declared_width_dxa": 8958,
+      "grid_width_dxa": 8958,
+      "widths_consistent": true,
+      "all_rows_match_grid": true
+    },
+    {
+      "table": 5,
+      "rows": 11,
+      "columns": 5,
+      "declared_width_dxa": 8958,
+      "grid_width_dxa": 8958,
+      "widths_consistent": true,
+      "all_rows_match_grid": true
+    },
+    {
+      "table": 6,
+      "rows": 5,
+      "columns": 5,
+      "declared_width_dxa": 8958,
+      "grid_width_dxa": 8958,
+      "widths_consistent": true,
+      "all_rows_match_grid": true
+    }
+  ],
+  "findings": [],
+  "pass": true
+}

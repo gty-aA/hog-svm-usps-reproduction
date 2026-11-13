@@ -1,0 +1,46 @@
+2026-11-13 11:02:39,607 | INFO | Loading USPS data
+2026-11-13 11:02:41,371 | INFO | Train: (7291, 16, 16), Test: (2007, 16, 16)
+2026-11-13 11:02:44,642 | INFO | HOG dimension: 324
+2026-11-13 11:02:44,642 | INFO | Tuning Raw pixels + Linear SVM
+2026-11-13 11:02:54,122 | INFO | Raw pixels + Linear SVM: CV 0.9491, test 0.9168, macro-F1 0.9108
+2026-11-13 11:02:54,122 | INFO | Tuning Raw pixels + RBF-SVM
+2026-11-13 11:03:07,177 | INFO | Raw pixels + RBF-SVM: CV 0.9800, test 0.9517, macro-F1 0.9476
+2026-11-13 11:03:07,178 | INFO | Tuning HOG + Linear SVM
+2026-11-13 11:03:10,000 | INFO | HOG + Linear SVM: CV 0.9767, test 0.9522, macro-F1 0.9489
+2026-11-13 11:03:10,000 | INFO | Tuning HOG + RBF-SVM (proposed)
+2026-11-13 11:03:22,027 | INFO | HOG + RBF-SVM (proposed): CV 0.9838, test 0.9626, macro-F1 0.9593
+2026-11-13 11:03:22,165 | INFO | Evaluating scenario clean
+2026-11-13 11:03:22,949 | INFO | Evaluating scenario noise_sigma_0.10
+2026-11-13 11:03:24,147 | INFO | Evaluating scenario noise_sigma_0.20
+2026-11-13 11:03:25,324 | INFO | Evaluating scenario noise_sigma_0.30
+2026-11-13 11:03:26,498 | INFO | Evaluating scenario contrast_0.60
+2026-11-13 11:03:27,667 | INFO | Evaluating scenario contrast_1.40
+2026-11-13 11:03:28,831 | INFO | Evaluating scenario shift_right_1px
+2026-11-13 11:03:29,999 | INFO | Evaluating scenario shift_down_1px
+2026-11-13 11:03:31,203 | INFO | Evaluating scenario rotate_plus_5deg
+2026-11-13 11:03:32,392 | INFO | Evaluating scenario rotate_minus_5deg
+2026-11-13 11:03:39,205 | INFO | Saved metrics to C:\Users\24062\Desktop\新建文件夹\results\metrics.json
+2026-11-13 11:03:39,206 | INFO | Saved checkpoints to C:\Users\24062\Desktop\新建文件夹\checkpoints
+2026-11-13 11:06:22,519 | INFO | Loading USPS data
+2026-11-13 11:06:24,249 | INFO | Train: (7291, 16, 16), Test: (2007, 16, 16)
+2026-11-13 11:06:27,484 | INFO | HOG dimension: 324
+2026-11-13 11:06:27,484 | INFO | Tuning Raw pixels + Linear SVM
+2026-11-13 11:06:37,400 | INFO | Raw pixels + Linear SVM: CV 0.9491, test 0.9168, macro-F1 0.9108
+2026-11-13 11:06:37,400 | INFO | Tuning Raw pixels + RBF-SVM
+2026-11-13 11:07:04,483 | INFO | Raw pixels + RBF-SVM: CV 0.9800, test 0.9517, macro-F1 0.9476
+2026-11-13 11:07:04,483 | INFO | Tuning HOG + Linear SVM
+2026-11-13 11:07:08,416 | INFO | HOG + Linear SVM: CV 0.9767, test 0.9522, macro-F1 0.9489
+2026-11-13 11:07:08,416 | INFO | Tuning HOG + RBF-SVM (proposed)
+2026-11-13 11:07:22,537 | INFO | HOG + RBF-SVM (proposed): CV 0.9838, test 0.9626, macro-F1 0.9593
+2026-11-13 11:07:22,665 | INFO | Evaluating scenario clean
+2026-11-13 11:07:23,478 | INFO | Evaluating scenario noise_sigma_0.10
+2026-11-13 11:07:24,690 | INFO | Evaluating scenario noise_sigma_0.20
+2026-11-13 11:07:25,892 | INFO | Evaluating scenario noise_sigma_0.30
+2026-11-13 11:07:27,070 | INFO | Evaluating scenario contrast_0.60
+2026-11-13 11:07:28,250 | INFO | Evaluating scenario contrast_1.40
+2026-11-13 11:07:29,501 | INFO | Evaluating scenario shift_right_1px
+2026-11-13 11:07:30,709 | INFO | Evaluating scenario shift_down_1px
+2026-11-13 11:07:31,911 | INFO | Evaluating scenario rotate_plus_5deg
+2026-11-13 11:07:33,140 | INFO | Evaluating scenario rotate_minus_5deg
+2026-11-13 11:07:39,918 | INFO | Saved metrics to C:\Users\24062\Desktop\新建文件夹\results\metrics.json
+2026-11-13 11:07:39,918 | INFO | Saved checkpoints to C:\Users\24062\Desktop\新建文件夹\checkpoints
