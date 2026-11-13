@@ -66,10 +66,15 @@ src/run_experiment.py        Tuning, training, evaluation and checkpoint export
 src/make_figures.py          All paper figures
 src/evaluate_checkpoints.py  Checkpoint and metric verification
 src/build_paper.py           DOCX builder
+src/build_pdf.py             Portable PDF rendering from the manuscript
+src/audit_docx.py            DOCX structure and table-geometry audit
+src/patch_docx_accessibility.py  Figure alt-text and table-width finalisation
 paper/manuscript.md          Bilingual manuscript source
 paper/*.docx / paper/*.pdf   Final paper artifacts
 results/metrics.json         Full recorded metrics
 results/predictions.npz      Per-sample predictions
+results/reproducibility_check.json  Checkpoint re-evaluation report
+results/docx_audit.json      Final DOCX structural audit
 checkpoints/*.joblib         Trained model weights
 figures/*.png                Publication figures
 ```
