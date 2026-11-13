@@ -88,21 +88,18 @@ and are not redistributed in this repository. The method follows:
 > N. Dalal and B. Triggs, "Histograms of Oriented Gradients for Human
 > Detection," CVPR, 2005.
 
-## GitHub publication status
+## GitHub repository
 
-The local repository is ready for publication. A public GitHub URL requires
-the repository owner's GitHub login or token; none was configured on the
-execution host, so no repository has been created or claimed on GitHub.
+The code, four model checkpoints, per-sample predictions, bilingual paper and
+figures are published at:
 
-After authenticating the intended account:
+https://github.com/gty-aA/hog-svm-usps-reproduction
+
+The repository can be cloned with:
 
 ```powershell
-git remote add origin https://github.com/OWNER/hog-svm-usps-reproduction.git
-git push -u origin main
+git clone https://github.com/gty-aA/hog-svm-usps-reproduction.git
 ```
-
-Replace `OWNER` with the account that owns the new public repository. Do not
-claim a URL before the first successful push.
 
 ## License
 

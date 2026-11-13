@@ -30,7 +30,12 @@ EDGE = Path(r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe")
 
 def inline(text: str) -> str:
     escaped = html.escape(text)
-    return re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", escaped)
+    escaped = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", escaped)
+    return re.sub(
+        r"(https?://[^\s<]+)",
+        r'<a href="\1">\1</a>',
+        escaped,
+    )
 
 
 def parse_table(lines: list[str], start: int):

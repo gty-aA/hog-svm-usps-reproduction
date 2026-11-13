@@ -6,7 +6,7 @@ authors:
   - name: "XXX"
 abstract: "A reproducible study of HOG features with linear and RBF SVMs on USPS handwritten digits."
 license: MIT
-repository-code: "https://github.com/OWNER/hog-svm-usps-reproduction"
+repository-code: "https://github.com/gty-aA/hog-svm-usps-reproduction"
 keywords:
   - computer vision
   - HOG
