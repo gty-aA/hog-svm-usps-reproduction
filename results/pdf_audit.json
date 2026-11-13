@@ -1,0 +1,167 @@
+{
+  "page_count": 20,
+  "pages": [
+    {
+      "page": 1,
+      "characters": 314,
+      "text_blocks": 11,
+      "images": 0,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    },
+    {
+      "page": 2,
+      "characters": 739,
+      "text_blocks": 17,
+      "images": 0,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    },
+    {
+      "page": 3,
+      "characters": 2006,
+      "text_blocks": 26,
+      "images": 0,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    },
+    {
+      "page": 4,
+      "characters": 401,
+      "text_blocks": 33,
+      "images": 0,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    },
+    {
+      "page": 5,
+      "characters": 160,
+      "text_blocks": 12,
+      "images": 0,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    },
+    {
+      "page": 6,
+      "characters": 1243,
+      "text_blocks": 34,
+      "images": 0,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    },
+    {
+      "page": 7,
+      "characters": 1164,
+      "text_blocks": 34,
+      "images": 0,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    },
+    {
+      "page": 8,
+      "characters": 945,
+      "text_blocks": 27,
+      "images": 1,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    },
+    {
+      "page": 9,
+      "characters": 823,
+      "text_blocks": 23,
+      "images": 1,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    },
+    {
+      "page": 10,
+      "characters": 1057,
+      "text_blocks": 33,
+      "images": 0,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    },
+    {
+      "page": 11,
+      "characters": 1196,
+      "text_blocks": 30,
+      "images": 0,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    },
+    {
+      "page": 12,
+      "characters": 910,
+      "text_blocks": 24,
+      "images": 1,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    },
+    {
+      "page": 13,
+      "characters": 887,
+      "text_blocks": 24,
+      "images": 1,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    },
+    {
+      "page": 14,
+      "characters": 356,
+      "text_blocks": 11,
+      "images": 1,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    },
+    {
+      "page": 15,
+      "characters": 667,
+      "text_blocks": 20,
+      "images": 1,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    },
+    {
+      "page": 16,
+      "characters": 831,
+      "text_blocks": 20,
+      "images": 1,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    },
+    {
+      "page": 17,
+      "characters": 1132,
+      "text_blocks": 31,
+      "images": 0,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    },
+    {
+      "page": 18,
+      "characters": 2555,
+      "text_blocks": 39,
+      "images": 0,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    },
+    {
+      "page": 19,
+      "characters": 338,
+      "text_blocks": 8,
+      "images": 0,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    },
+    {
+      "page": 20,
+      "characters": 755,
+      "text_blocks": 19,
+      "images": 0,
+      "width_pt": 594.96,
+      "height_pt": 841.92
+    }
+  ],
+  "empty_content_pages": [],
+  "embedded_image_count": 7
+}
